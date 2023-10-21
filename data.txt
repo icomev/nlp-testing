@@ -1,0 +1,14 @@
+positive: I love coding!
+positive: This library is amazing!
+positive: Everything is wonderful!
+positive: Coding is great!!
+positive: Programming i love!
+positive: Code is life!
+positive: life is good!
+negative: I am disappointed with the service.
+negative: I hate bugs.
+negative: This is so frustrating.
+neutral: I am going to the store.
+neutral: What time is it?
+neutral: Can you help me with this?
+
